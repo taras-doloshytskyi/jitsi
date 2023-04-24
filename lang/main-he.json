@@ -691,7 +691,8 @@
         "talkWhileMutedPopup": "מנסה לדבר? אתה מושתק.",
         "tileViewToggle": "שנה לתצוגת אריחים",
         "toggleCamera": "שנה מצלמה",
-        "videomute": "הפעל / כבה מצלמה"
+        "videomute": "הפעל / כבה מצלמה",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "הפעל / כבה כתוביות",

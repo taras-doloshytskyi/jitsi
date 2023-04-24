@@ -692,7 +692,8 @@
         "talkWhileMutedPopup": "Спрабуеце казаць? У вас адключаны гук.",
         "tileViewToggle": "Укл/Выкл плітку",
         "toggleCamera": "Укл/Выкл камеру",
-        "videomute": "Камера"
+        "videomute": "Камера",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Укл. / Выкл. Субтытры",

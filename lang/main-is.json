@@ -687,7 +687,8 @@
         "talkWhileMutedPopup": "Ertu að reyna að tala? Þaggað er niður í þér.",
         "tileViewToggle": "Víxla reitasýn af/á",
         "toggleCamera": "Víxla myndavél",
-        "videomute": "Ræsa / Stöðva myndavél"
+        "videomute": "Ræsa / Stöðva myndavél",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Hefja / Hætta birtingu skjátexta",

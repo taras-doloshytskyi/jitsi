@@ -14,7 +14,7 @@ type Props = AbstractButtonProps;
 /**
  * Implements an {@link AbstractButton} to open the chat screen on mobile.
  */
-class SharedDocumentButton extends AbstractButton<Props, *> {
+class SharedDocumentButton extends AbstractButton<AbstractButtonProps, *> {
     accessibilityLabel = 'toolbar.accessibilityLabel.document';
     icon = IconShareDoc;
     label = 'toolbar.documentOpen';
@@ -56,6 +56,8 @@ class SharedDocumentButton extends AbstractButton<Props, *> {
 function _mapStateToProps(state: Object, ownProps: Object) {
     const { documentUrl } = state['features/etherpad'];
     const { visible = Boolean(documentUrl) } = ownProps;
+
+    console.log(documentUrl);
 
     return {
         visible

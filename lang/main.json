@@ -1216,7 +1216,8 @@
         "tileViewToggle": "Toggle tile view",
         "toggleCamera": "Toggle camera",
         "videoSettings": "Video settings",
-        "videomute": "Start / Stop camera"
+        "videomute": "Start / Stop camera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Start / Stop subtitles",

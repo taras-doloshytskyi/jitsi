@@ -119,6 +119,8 @@ export const participantsScreenOptions = presentationScreenOptions;
  */
 export const speakerStatsScreenOptions = presentationScreenOptions;
 
+export const metronomeScreenOptions = presentationScreenOptions;
+
 /**
  * Screen options for security options modal.
  */

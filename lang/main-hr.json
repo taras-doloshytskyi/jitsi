@@ -1212,7 +1212,8 @@
         "tileViewToggle": "Uključi/Isključi pločasti prikaz",
         "toggleCamera": "Uključi/Isključi kameru",
         "videoSettings": "Videopostavke",
-        "videomute": "Pokreni/Prekini kameru"
+        "videomute": "Pokreni/Prekini kameru",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Pokreni/Prekini titlove",

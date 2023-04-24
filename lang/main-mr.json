@@ -685,7 +685,8 @@
         "talkWhileMutedPopup": "बोलण्याचा प्रयत्न करीत आहात? आपण निःशब्द आहात.",
         "tileViewToggle": "टाइल दृश्य टॉगल करा",
         "toggleCamera": "टॉगल कॅमेरा",
-        "videomute": "कॅमेरा प्रारंभ / थांबवा"
+        "videomute": "कॅमेरा प्रारंभ / थांबवा",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "उपशीर्षके प्रारंभ / थांबवा",

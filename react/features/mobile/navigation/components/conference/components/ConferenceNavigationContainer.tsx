@@ -47,6 +47,7 @@ import {
     inviteScreenOptions,
     liveStreamScreenOptions,
     lobbyNavigationContainerScreenOptions,
+    metronomeScreenOptions,
     navigationContainerTheme,
     participantsScreenOptions,
     recordingScreenOptions,
@@ -67,6 +68,7 @@ import {
     conferenceNavigationRef
     // @ts-ignore
 } from '../ConferenceNavigationContainerRef';
+import Metronome from '../../../../../conference/components/native/metronome/Metronome';
 
 const ConferenceStack = createStackNavigator();
 
@@ -140,8 +142,15 @@ const ConferenceNavigationContainer = () => {
                     component = { SpeakerStats }
                     name = { screen.conference.speakerStats }
                     options = {{
-                        ...speakerStatsScreenOptions,
+                        ...metronomeScreenOptions,
                         title: t('speakerStats.speakerStats')
+                    }} />
+                <ConferenceStack.Screen
+                    component = { Metronome }
+                    name = { screen.conference.metronome }
+                    options = {{
+                        ...speakerStatsScreenOptions,
+                        title: 'Metronome'
                     }} />
                 <ConferenceStack.Screen
                     component = { SalesforceLinkDialog }

@@ -1212,7 +1212,8 @@
         "tileViewToggle": "啟動/停用畫廊檢視",
         "toggleCamera": "啟動/停用網路攝影機",
         "videoSettings": "視訊設定",
-        "videomute": "啟動/停用網路攝影機"
+        "videomute": "啟動/停用網路攝影機",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "啟動/停用字幕",

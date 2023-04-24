@@ -1212,7 +1212,8 @@
         "tileViewToggle": "Döşeme görünümünü aç/kapat",
         "toggleCamera": "Kamerayı değiştir",
         "videoSettings": "Video ayarları",
-        "videomute": "Kamera başlat / durdur"
+        "videomute": "Kamera başlat / durdur",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Altyazılıar başlat / durdur",

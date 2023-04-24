@@ -1030,7 +1030,8 @@
         "tileViewToggle": "Preklopi ploščični pregled",
         "toggleCamera": "Preklopi kamero",
         "videoSettings": "Nastavitve videa",
-        "videomute": "Vklopi / izklopi kamero"
+        "videomute": "Vklopi / izklopi kamero",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Vklopi / Izklopi podnapise",

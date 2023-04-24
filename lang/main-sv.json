@@ -1212,7 +1212,8 @@
         "tileViewToggle": "Öppna eller stäng panelvyn",
         "toggleCamera": "Byta kamera",
         "videoSettings": "Video inställningar",
-        "videomute": "Aktivera / avaktivera kameran"
+        "videomute": "Aktivera / avaktivera kameran",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Starta / Avsluta undertexter",

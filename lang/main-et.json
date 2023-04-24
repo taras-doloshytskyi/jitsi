@@ -678,7 +678,8 @@
         "talkWhileMutedPopup": "Soovid rääkida? Mikrofon on välja lülitatud.",
         "tileViewToggle": "Näita paneelvaadet",
         "toggleCamera": "Kasuta kaamerat",
-        "videomute": "Kaamera sisse/välja"
+        "videomute": "Kaamera sisse/välja",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Subtiitrid sisse/välja",

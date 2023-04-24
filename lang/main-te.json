@@ -880,7 +880,8 @@
         "tileViewToggle": "Toggle tile view",
         "toggleCamera": "Toggle camera",
         "videoSettings": "వీడియో అమరికలు",
-        "videomute": "కేమెరా మొదలుపెట్టు / ఆపివేయి"
+        "videomute": "కేమెరా మొదలుపెట్టు / ఆపివేయి",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Start / Stop subtitles",

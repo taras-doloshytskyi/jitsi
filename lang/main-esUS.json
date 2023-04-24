@@ -1057,7 +1057,8 @@
         "tileViewToggle": "Activar o desactivar vista en cuadrícula",
         "toggleCamera": "Activar o desactivar cámara",
         "videoSettings": "Ajustes de vídeo",
-        "videomute": "Iniciar o detener cámara"
+        "videomute": "Iniciar o detener cámara",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Iniciar o detener subtítulos",

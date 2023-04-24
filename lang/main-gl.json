@@ -659,7 +659,8 @@
         "talkWhileMutedPopup": "Está a tentar falar? Está silenciado.",
         "tileViewToggle": "Trocar a vista en mosaico",
         "toggleCamera": "Trocar a cámara",
-        "videomute": "Comezar / Parar a cámara"
+        "videomute": "Comezar / Parar a cámara",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Comezar / Parar os subtítulos",

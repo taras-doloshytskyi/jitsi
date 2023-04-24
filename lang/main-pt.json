@@ -1216,7 +1216,8 @@
         "tileViewToggle": "Mudar para vista em quadrícula",
         "toggleCamera": "Mudar a câmara",
         "videoSettings": "Definições de vídeo",
-        "videomute": "Iniciar / Parar câmara"
+        "videomute": "Iniciar / Parar câmara",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Iniciar/parar legendas",

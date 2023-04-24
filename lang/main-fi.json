@@ -620,7 +620,8 @@
         "talkWhileMutedPopup": "Yritätkö puhua? Olet mykistettynä.",
         "tileViewToggle": "Säädä ruudukkonäkymää",
         "toggleCamera": "Säädä kameraa",
-        "videomute": "Käynnistä/pysäytä kamera"
+        "videomute": "Käynnistä/pysäytä kamera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Tekstitys päälle/pois",

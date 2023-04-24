@@ -93,12 +93,10 @@ const AgendaProvider = ({ children }) => {
     const api = useSelector((state) => state["features/base/conference"]);
 
     const getAgendasFromServer = async () => {
-
         try {
             let res = await axios.get(
                 `${apiUrl}/api/agenda/meeting/${api.room}`
             );
-            console.log('resres', {res});
             if (res.data) {
                 const newAgenda = []; //
                 const data = res.data.data || [];
@@ -114,7 +112,6 @@ const AgendaProvider = ({ children }) => {
                 });
                 setAgendaItems(newAgenda);
                 let time = newAgenda.reduce((a, b) => a + b.time, 0);
-                console.log(time, "time", newAgenda);
                 setTotalTime(time);
             }
         } catch (error) {

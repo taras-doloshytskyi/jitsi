@@ -185,6 +185,8 @@ export class AbstractWelcomePage<P: Props> extends Component<P, *> {
      * @returns {void}
      */
     _onJoin() {
+        console.log('this.state.room', this.state.room);
+        console.log('this.state.generatedRoomname', this.state.generatedRoomname);
         const room = this.state.room || this.state.generatedRoomname;
 
         sendAnalytics(
@@ -193,6 +195,8 @@ export class AbstractWelcomePage<P: Props> extends Component<P, *> {
                 room
             }));
 
+        console.log('room', room);
+        console.log('_mounted', this._mounted);
         if (room) {
             this.setState({ joining: true });
 

@@ -675,7 +675,8 @@
         "talkWhileMutedPopup": "Forsøger du at sige noget? Din lyd er slået fra.",
         "tileViewToggle": "Slå gittervisning fra/til",
         "toggleCamera": "Slå kamera fra/til",
-        "videomute": "Start/stop kamera"
+        "videomute": "Start/stop kamera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Start/stop undertekster",

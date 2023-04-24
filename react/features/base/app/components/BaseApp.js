@@ -8,6 +8,8 @@ import { Provider } from 'react-redux';
 import { compose, createStore } from 'redux';
 import Thunk from 'redux-thunk';
 
+import AgendaProvider from '../../context/AgendaContext';
+import MetronomeProvider from '../../context/MetronomeContext';
 import { i18next } from '../../i18n';
 import {
     MiddlewareRegistry,
@@ -19,7 +21,6 @@ import { SoundCollection } from '../../sounds';
 import { createDeferred } from '../../util';
 import { appWillMount, appWillUnmount } from '../actions';
 import logger from '../logger';
-import AgendaProvider from '../../context/AgendaContext';
 
 declare var APP: Object;
 
@@ -162,12 +163,14 @@ export default class BaseApp extends Component<*, State> {
                 <I18nextProvider i18n = { i18next }>
                     <Provider store = { store }>
                         <AgendaProvider>
-                            <Fragment>
-                                { this._createMainElement(component, props) }
-                                <SoundCollection />
-                                { this._createExtraElement() }
-                                { this._renderDialogContainer() }
-                            </Fragment>
+                            <MetronomeProvider>
+                                <Fragment>
+                                    { this._createMainElement(component, props) }
+                                    <SoundCollection />
+                                    { this._createExtraElement() }
+                                    { this._renderDialogContainer() }
+                                </Fragment>
+                            </MetronomeProvider>
                         </AgendaProvider>
                     </Provider>
                 </I18nextProvider>

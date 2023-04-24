@@ -678,7 +678,8 @@
         "talkWhileMutedPopup": "Ярьж үзмээр байна уу? Дуу хаалттай байна.",
         "tileViewToggle": "Зэрэгцүүлж харах",
         "toggleCamera": "Камер",
-        "videomute": "Камер нээх/хаах"
+        "videomute": "Камер нээх/хаах",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Хадмал орчуулгыг харуулах/болих",

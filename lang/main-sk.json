@@ -811,7 +811,8 @@
         "talkWhileMutedPopup": "Skúšate hovoriť? Ste stlmený.",
         "tileViewToggle": "Prepnúť dlaždicové zobrazenie",
         "toggleCamera": "Zmeniť kameru",
-        "videomute": "Vypnúť / Zapnúť kameru"
+        "videomute": "Vypnúť / Zapnúť kameru",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "titulky vypnuť/zapnúť",

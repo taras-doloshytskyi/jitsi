@@ -1170,7 +1170,8 @@
         "tileViewToggle": " kachlicowy napohlad zapnyć/hasnyć ",
         "toggleCamera": "kameru měnić",
         "videoSettings": "nastajenja za widejo",
-        "videomute": "kameru startować/hasnyć"
+        "videomute": "kameru startować/hasnyć",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "podtitule pokazać/hasnyć",

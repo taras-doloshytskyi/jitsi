@@ -8,6 +8,7 @@ import { bottomSheetStyles } from '../../../base/dialog/components/native/styles
 import { connect } from '../../../base/redux';
 import SettingsButton from '../../../base/settings/components/native/SettingsButton';
 import { SharedDocumentButton } from '../../../etherpad';
+import SharedDocumentButtonNative from '../../../etherpad/components/SharedDocumentButton.native';
 import { ReactionMenu } from '../../../reactions/components';
 import { isReactionsEnabled } from '../../../reactions/functions.any';
 import { LiveStreamButton, RecordButton } from '../../../recording';
@@ -26,6 +27,7 @@ import LinkToSalesforceButton from './LinkToSalesforceButton';
 import OpenCarmodeButton from './OpenCarmodeButton';
 import RaiseHandButton from './RaiseHandButton';
 import ScreenSharingButton from './ScreenSharingButton';
+import MetronomeButton from '../../../conference/components/native/metronome/MetronomeButton';
 
 /**
  * The type of the React {@code Component} props of {@link OverflowMenu}.
@@ -145,8 +147,10 @@ class OverflowMenu extends PureComponent<Props, State> {
                 {!_isSpeakerStatsDisabled && <SpeakerStatsButton { ...buttonProps } />}
                 {!toolbarButtons.has('tileview') && <TileViewButton { ...buttonProps } />}
                 <Divider style = { styles.divider } />
+                <MetronomeButton { ...buttonProps } />
                 <ClosedCaptionButton { ...buttonProps } />
                 <SharedDocumentButton { ...buttonProps } />
+                <SharedDocumentButtonNative { ...buttonProps } />
                 {/* <SettingsButton { ...buttonProps } /> */}
             </BottomSheet>
         );

@@ -994,7 +994,8 @@
         "tileViewToggle": "Tegelweergave in- of uitschakelen",
         "toggleCamera": "Camera wisselen",
         "videoSettings": "Instellingen van camera",
-        "videomute": "Camera aanzetten / uitzetten"
+        "videomute": "Camera aanzetten / uitzetten",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Ondertiteling starten / stoppen",
