@@ -1097,7 +1097,8 @@
         "tileViewToggle": "Activar/Desactivar la vista en mosaïc",
         "toggleCamera": "Passar a la camèra",
         "videoSettings": "Paramètres vidèo",
-        "videomute": "Aviar / Arrestar la camèra"
+        "videomute": "Aviar / Arrestar la camèra",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Aviar / Arrestat los sostítols",

@@ -1203,7 +1203,8 @@
         "tileViewToggle": "بدِّل عنوان العرض",
         "toggleCamera": "بدِّل الكاميرا",
         "videoSettings": "اعدادات الفيديو",
-        "videomute": "استعمل / أوقف الكاميرا"
+        "videomute": "استعمل / أوقف الكاميرا",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "أظهر / أخف الترجمة",

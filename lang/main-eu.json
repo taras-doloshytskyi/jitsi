@@ -897,7 +897,8 @@
         "tileViewToggle": "Txandakatu fitxa ikuspegia",
         "toggleCamera": "Txandakatu kamera",
         "videoSettings": "Video ezarpenak",
-        "videomute": "Hasi / gelditu kamera"
+        "videomute": "Hasi / gelditu kamera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Hasi / Gelditu Azpitituluak",

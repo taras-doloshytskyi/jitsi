@@ -832,7 +832,8 @@
         "talkWhileMutedPopup": "സംസാരിക്കാൻ ശ്രമിക്കുകയാണോ? നിങ്ങൾ നിശബ്ദമാണ്.",
         "tileViewToggle": "ടൈൽ കാഴ്ച ടോഗിൾ ചെയ്യുക",
         "toggleCamera": "ക്യാമറ ടോഗിൾ ചെയ്യുക",
-        "videomute": "ക്യാമറ ആരംഭിക്കുക/നിർത്തുക"
+        "videomute": "ക്യാമറ ആരംഭിക്കുക/നിർത്തുക",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "സബ്ടൈറ്റിലുകൾ ആരംഭിക്കുക/നിർത്തുക",

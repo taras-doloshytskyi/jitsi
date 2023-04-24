@@ -709,7 +709,8 @@
         "tileViewToggle": "타일뷰 전환",
         "toggleCamera": "카메라 전환",
         "videoSettings": "비디오 설정",
-        "videomute": "카메라 시작/중지"
+        "videomute": "카메라 시작/중지",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "자막 시작/종료",

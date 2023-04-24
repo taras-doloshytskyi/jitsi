@@ -745,7 +745,8 @@
         "talkWhileMutedPopup": "Опитвате се да говорите? В момента микрофонът Ви е заглушен.",
         "tileViewToggle": "Превключване на изглед галерия",
         "toggleCamera": "Пускане/спиране на камера",
-        "videomute": "Пускане/спиране на камерата"
+        "videomute": "Пускане/спиране на камерата",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Пускане/спиране на субтитри",

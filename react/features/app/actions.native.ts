@@ -183,6 +183,9 @@ export function reloadNow() {
         // @ts-ignore
         const newURL = addTrackStateToURL(locationURL, state);
 
+        console.log(locationURL);
+        console.log(toURLString(newURL));
+
         logger.info(`Reloading the conference using URL: ${locationURL}`);
 
         dispatch(appNavigate(toURLString(newURL)));

@@ -792,7 +792,8 @@
         "talkWhileMutedPopup": "Προσπαθείτε να μιλήσετε; Είστε σε σίγαση.",
         "tileViewToggle": "Εναλλαγή προβολής εικονιδίων",
         "toggleCamera": "Εναλλαγή κάμερας",
-        "videomute": "Άνοιγμα / κλείσιμο κάμερας"
+        "videomute": "Άνοιγμα / κλείσιμο κάμερας",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Άνοιγμα / κλείσιμο υποτίτλων",

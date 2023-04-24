@@ -1212,7 +1212,8 @@
         "tileViewToggle": "Vedi tutti i partecipanti insieme, o uno solo",
         "toggleCamera": "Cambia videocamera",
         "videoSettings": "Impostazioni video",
-        "videomute": "Videocamera"
+        "videomute": "Videocamera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Sottotitoli",

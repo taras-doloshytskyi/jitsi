@@ -652,7 +652,8 @@
         "talkWhileMutedPopup": "Vous essayez de parler? Vous êtes en sourdine.",
         "tileViewToggle": "Basculement de l'affichage mosaïque",
         "toggleCamera": "Basculement de la caméra",
-        "videomute": "Démarrer / Arrêter la caméra"
+        "videomute": "Démarrer / Arrêter la caméra",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Activer / Désactiver les sous-titres",

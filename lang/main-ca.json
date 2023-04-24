@@ -1164,7 +1164,8 @@
         "tileViewToggle": "Activa o desactiva el mode mosaic",
         "toggleCamera": "Activa o desactiva la càmera",
         "videoSettings": "Paràmetres de vídeo",
-        "videomute": "Inicia o atura la càmera"
+        "videomute": "Inicia o atura la càmera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Inicia o atura els subtítols",

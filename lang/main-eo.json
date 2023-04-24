@@ -1217,7 +1217,8 @@
         "toggleCamera": "Baskuligi kameraon",
         "undock": "Maldokiĝu en apartan fenestron",
         "videoSettings": "Video-agordoj",
-        "videomute": "Ŝalti / Malŝalti kameraon"
+        "videomute": "Ŝalti / Malŝalti kameraon",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Komenci / Ĉesigi subtekstojn",

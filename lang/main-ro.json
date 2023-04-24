@@ -672,7 +672,8 @@
         "talkWhileMutedPopup": "Încercați să vorbiți? Microfonul este dezactivat.",
         "tileViewToggle": "Afișați / ascundeți miniatura video",
         "toggleCamera": "Afișați / ascundeți camera",
-        "videomute": "Porniți / Opriți camera"
+        "videomute": "Porniți / Opriți camera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Afișați / Ascundeți subtitrări",

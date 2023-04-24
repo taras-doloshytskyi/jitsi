@@ -1212,7 +1212,8 @@
         "tileViewToggle": "画面模式",
         "toggleCamera": "开启/关闭摄像头",
         "videoSettings": "视频设置",
-        "videomute": "开启/关闭摄像头"
+        "videomute": "开启/关闭摄像头",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "开启/关闭字幕",

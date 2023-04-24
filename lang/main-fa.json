@@ -1146,7 +1146,8 @@
         "tileViewToggle": "تغییر نمای کاشی",
         "toggleCamera": "تغییر دوربین",
         "videoSettings": "تنظیمات ویدئو",
-        "videomute": "شروع / توقف دوربین"
+        "videomute": "شروع / توقف دوربین",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "شروع/توقف زیرنویس",

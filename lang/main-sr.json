@@ -670,7 +670,8 @@
         "talkWhileMutedPopup": "Покушаваш говорити? Утишан си.",
         "tileViewToggle": "Приказ плочица",
         "toggleCamera": "Укључи / искључи камeру",
-        "videomute": "Покрeни / Заустави камeру"
+        "videomute": "Покрeни / Заустави камeру",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "",

@@ -115,8 +115,7 @@ function Toolbox(props: Props) {
                     ? <HangupMenuButton
                         styles = { hangupMenuButtonStyles }
                         toggledStyles = { toggledButtonStyles } />
-                    : <HangupButton
-                        styles = { hangupButtonStyles } />
+                    : <HangupButton styles = { hangupButtonStyles } />
                 }
             </SafeAreaView>
         </View>

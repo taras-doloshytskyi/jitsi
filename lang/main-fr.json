@@ -1149,7 +1149,8 @@
         "tileViewToggle": "Activer / Désactiver la vue mosaïque",
         "toggleCamera": "Changer de caméra",
         "videoSettings": "Paramètres vidéo",
-        "videomute": "Démarrer / Arrêter la caméra"
+        "videomute": "Démarrer / Arrêter la caméra",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Activer / Désactiver les sous-titres",

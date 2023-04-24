@@ -1100,7 +1100,8 @@
         "tileViewToggle": "Kaloni/Dilni nga mënyra mozaik",
         "toggleCamera": "Hapni/Mbyllni kamerën",
         "videoSetting": "Rregullime videoje",
-        "videomute": "Nisni / Ndalni kamerën"
+        "videomute": "Nisni / Ndalni kamerën",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Ndali / Nisi titrat",

@@ -1030,7 +1030,8 @@
         "tileViewToggle": "Alternar visualização em blocos",
         "toggleCamera": "Alternar câmera",
         "videoSettings": "Configurações de vídeo",
-        "videomute": "Iniciar ou parar a câmera"
+        "videomute": "Iniciar ou parar a câmera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Iniciar/parar legendas",

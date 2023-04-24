@@ -106,7 +106,7 @@ export default {
     },
 
     endMeetingButton: {
-        width: 240
+        width: 340
     },
 
     headerLabels: {

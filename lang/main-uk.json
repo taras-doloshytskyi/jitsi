@@ -1212,7 +1212,8 @@
         "tileViewToggle": "Плитки",
         "toggleCamera": "Увімкнути/вимкнути камеру",
         "videoSettings": "Налаштування камери",
-        "videomute": "Камера"
+        "videomute": "Камера",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Субтитри",

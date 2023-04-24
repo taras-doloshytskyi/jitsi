@@ -79,6 +79,7 @@ export { default as IconSecurityOn } from './security-on.svg';
 export { default as IconSend } from './send.svg';
 export { default as IconShare } from './share.svg';
 export { default as IconShareDoc } from './share-doc.svg';
+export { default as IconMetronome } from './metronome.svg';
 export { default as IconShortcuts } from './shortcuts.svg';
 export { default as IconSites } from './sites.svg';
 export { default as IconStop } from './stop.svg';

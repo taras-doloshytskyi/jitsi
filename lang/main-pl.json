@@ -1195,7 +1195,8 @@
         "tileViewToggle": "Przełączanie kafelkowego widoku",
         "toggleCamera": "Przełączanie kamery",
         "videoSettings": "Ustawienia video",
-        "videomute": "Włącz / Wyłącz kamerę"
+        "videomute": "Włącz / Wyłącz kamerę",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Uruchom / Zatrzymaj napisy",

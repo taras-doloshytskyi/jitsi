@@ -860,7 +860,8 @@
         "tileViewToggle": "टॉगल टाइल दृश्य",
         "toggleCamera": "कैमरा टॉगल करें",
         "videoSettings": "वीडियो सेटिंग्स",
-        "videomute": "स्टार्ट / स्टॉप कैमरा"
+        "videomute": "स्टार्ट / स्टॉप कैमरा",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Start / Stop subtitles",

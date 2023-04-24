@@ -614,7 +614,8 @@
         "talkWhileMutedPopup": "Փորձում եք խոսե՞լ: Ձեր ձայնը անջատված է:",
         "tileViewToggle": "",
         "toggleCamera": "",
-        "videomute": "Միացնել/Անջատել տեսախցիկը"
+        "videomute": "Միացնել/Անջատել տեսախցիկը",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "",

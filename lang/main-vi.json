@@ -680,7 +680,8 @@
         "tileViewToggle": "Mở/Đóng Xem dạng lưới",
         "toggleCamera": "Mở/Đóng Camera",
         "videoSettings": "Cài đặt hình ảnh",
-        "videomute": "Bật / Tắt camera"
+        "videomute": "Bật / Tắt camera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Chạy/Dừng phụ đề",

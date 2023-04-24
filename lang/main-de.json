@@ -1216,7 +1216,8 @@
         "tileViewToggle": "Kachelansicht ein-/ausschalten",
         "toggleCamera": "Kamera wechseln",
         "videoSettings": "Kameraeinstellungen",
-        "videomute": "Kamera starten / stoppen"
+        "videomute": "Kamera starten / stoppen",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Untertitel ein-/ausschalten",

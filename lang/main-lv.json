@@ -667,7 +667,8 @@
         "talkWhileMutedPopup": "Cenšaties runāt? Jums atlsēgta skaņa.",
         "tileViewToggle": "Pārslēgt videoflīzes režīmu",
         "toggleCamera": "Pārslēgt kameru",
-        "videomute": "Kamera iesl./izsl."
+        "videomute": "Kamera iesl./izsl.",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Iesl./izsl. subtitrus",

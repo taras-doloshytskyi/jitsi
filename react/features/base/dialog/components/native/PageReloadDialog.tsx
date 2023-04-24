@@ -212,6 +212,7 @@ function mapStateToProps(state: IReduxState) {
     } else if (connectionError) {
         reason = `error.conference.${connectionError.name}`;
     } else if (configError) {
+        console.log('hmmmmmmm...');
         reason = `error.config.${configError.name}`;
     } else {
         logger.error('No reload reason defined!');

@@ -679,7 +679,8 @@
         "talkWhileMutedPopup": "Ar bandote kalbėti? Jūs esate begarsio rėžime.",
         "tileViewToggle": "Perjungti rodinį",
         "toggleCamera": "Perjungti kamerą",
-        "videomute": "Įjungti / Išjungti kamerą"
+        "videomute": "Įjungti / Išjungti kamerą",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Įjungti / Išjungti titrus",

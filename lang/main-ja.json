@@ -1098,7 +1098,8 @@
         "tileViewToggle": "タイルビューの切り替え",
         "toggleCamera": "カメラの切り替え",
         "videoSettings": "ビデオ設定",
-        "videomute": "カメラの開始 / 停止"
+        "videomute": "カメラの開始 / 停止",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "字幕の表示 / 非表示",

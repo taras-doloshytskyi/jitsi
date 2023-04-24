@@ -619,7 +619,8 @@
         "talkWhileMutedPopup": "Besig om te praat? U is gedemp.",
         "tileViewToggle": "Wissel teëlaansig",
         "toggleCamera": "Wissel kamera",
-        "videomute": "Begin / stop kamera"
+        "videomute": "Begin / stop kamera",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "",

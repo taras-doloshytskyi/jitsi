@@ -971,7 +971,8 @@
         "tileViewToggle": "Mozaikos nézet átváltása",
         "toggleCamera": "Kamera átváltása",
         "videoSettings": "Videóbeállítások",
-        "videomute": "Kamera indítása / leállítása"
+        "videomute": "Kamera indítása / leállítása",
+        "metronome": "Metronome"
     },
     "transcribing": {
         "ccButtonTooltip": "Feliratok indítása / leállítása",
